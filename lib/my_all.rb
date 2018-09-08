@@ -15,4 +15,5 @@ def my_all?(collection)
     end
   else
     "No data in collection"
+  end
 end
